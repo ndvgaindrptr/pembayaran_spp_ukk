@@ -2,8 +2,8 @@
 session_start();
 if(empty($_SESSION['nisn'])){
     echo"<script>
-    alert('Maaf Anda Belum Login');
-    window.location.assign('../index.php');
+    alert('Maaf Anda Belum Login')
+    window.location.assign('../index3.php');
     </script>";
 }
 ?>

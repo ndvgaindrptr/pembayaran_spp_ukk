@@ -28,7 +28,7 @@
                         <div class="form-group mb-2">
                             <button type="submit" class="btn btn-primary"> LOGIN </button>
                         </div>
-                        <a href="index.php"> Login Sebagai Siswa </a>
+                        <a href="index3.php"> Login Sebagai Siswa </a>
                     <form>
                 </div>
             </div>
